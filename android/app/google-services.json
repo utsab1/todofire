@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906331625544",
+    "project_id": "to-do-fa883",
+    "storage_bucket": "to-do-fa883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906331625544:android:ecf7189358cc45a25de07d",
+        "android_client_info": {
+          "package_name": "com.example.todofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906331625544-r9vgmq4i7paobkvnge0jnis6nta8a846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzOzLmwZve0Pz1Lx9DnBsSBwupVJnvwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906331625544-r9vgmq4i7paobkvnge0jnis6nta8a846.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
